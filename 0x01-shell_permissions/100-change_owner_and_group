@@ -1,3 +1,2 @@
 #!/bin/bash
-chown julien vincent  
-chgrp julien staff
+find . -exec chown vincent:staff {} +
