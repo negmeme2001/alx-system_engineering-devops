@@ -1,0 +1,5 @@
+#!/bin/bash
+chown julien vincent  
+chgrp julien staff
+
+
